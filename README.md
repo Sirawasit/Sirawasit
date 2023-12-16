@@ -1,16 +1,19 @@
 ### Hi there 👋
 
+Sirawasitis a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-**Sirawasit/Sirawasit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sirawasit Jintaphattharakul
 
-Here are some ideas to get you started:
+UX/UI Designer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Skills and experience
 
+* Advanced UX/UI design skills
+* Experience working with various digital products, such as websites, mobile apps, and desktop software
+* Understanding of UX/UI design principles, such as usability, accessibility, and sustainability
+* HTML, CSS, and JavaScript coding skills
+* Drawing and graphic design skills
+
+## Goals
+
+I am committed to continuously developing my UX/UI skills and knowledge. I want to work with a creative team that is passionate about creating great digital products.
